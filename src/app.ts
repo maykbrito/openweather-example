@@ -18,6 +18,9 @@ const limiter = rateLimit({
 app.use(limiter)
 app.set('trust proxy', 1)
 
+// Static dir
+app.use(express.static('public'))
+
 // Routes
 app.use('/api', apiRoutes)
 

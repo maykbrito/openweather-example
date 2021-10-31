@@ -10,6 +10,8 @@
 
 <br>
 
+<img height="300em" align="right" alt="Example image" src="https://i.imgur.com/fEFA2Ia.jpg" />
+
 ## 🚀 Techs
 
 Using the following technologies
@@ -29,17 +31,23 @@ API proxy server to hide API keys adding features like rate limiting & caching
 
 ## How to use ?
 
-> You will need to configure your enviroment variables and your API, as your wish. This is just a template.
+1. Create and get your API KEY at: https://home.openweathermap.org/api_keys
 
-This is a template, a start point, so you can create whatever you want.
+2. Get the API BASE URL at: https://openweathermap.org/current
 
-1. Click in `Use this template` provided by Github, to create your own project based on this template.
+3. Configure your .env file like this
 
-2. Configure your enviroment variables in `.env` file.
+```.env
+API_BASE_URL="https://api.openweathermap.org/data/2.5/weather"
+API_KEY_NAME="appid"
+API_KEY_VALUE="YOUR_API_KEY_HERE"
+```
 
-3. Install dependencies: Open your terminal, navigate to this directory and run `yarn` or `npm install`
+4. Install dependencies: Open your terminal, navigate to this directory and run `yarn` or `npm install`
 
-4. Check the app: run `yarn dev` or `npm start dev` and going to `http://localhost:5454/api`
+5. Check the app: run `yarn dev` or `npm start dev`
+
+6. Open `http://localhost:5454/`
 
 ## 📝 License
 
