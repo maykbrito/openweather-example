@@ -1,7 +1,9 @@
 <p align="center">
   <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contact">Contact</a>
 </p>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 <br>
 
-<img height="300em" align="right" alt="Example image" src="https://i.imgur.com/fEFA2Ia.jpg" />
+<img height="480em" align="right" alt="Example image" src="https://i.imgur.com/fEFA2Ia.jpg" />
 
 ## 🚀 Techs
 
@@ -25,11 +27,11 @@ Using the following technologies
 - express-rate-limit
 - apicache
 
-## 💻 Project
+## 💻 About
 
 API proxy server to hide API keys adding features like rate limiting & caching
 
-## How to use ?
+## 🤔 How to use
 
 1. Create and get your API KEY at: https://home.openweathermap.org/api_keys
 
@@ -53,6 +55,6 @@ API_KEY_VALUE="YOUR_API_KEY_HERE"
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
----
+## 👨🏽‍🦲 Contact
 
 🔥 Mayk Brito [Wanna be friend?](https://maykbrito.dev)
