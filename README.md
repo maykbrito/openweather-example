@@ -53,7 +53,7 @@ API_KEY_VALUE="YOUR_API_KEY_HERE"
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+MIT.
 
 ## 👨🏽‍🦲 Contact
 
